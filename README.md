@@ -1,4 +1,1 @@
-# jusan-git
-Данный репозиторий содержит скрипт для вывода моего ID на stepik.org
-<br>
-![image](https://github.com/user-attachments/assets/6ca01c34-1b2e-4185-952f-09f1162e5963)
+![image](https://github.com/user-attachments/assets/42a4660e-34ce-4334-a8fd-97c52ec4c965)
